@@ -1,10 +1,10 @@
 
 
-# prework study guide webpage
+# Study Guide Webpage
 
 ## Description
 
-It is the first step to be a web designer and developer. It will help to learn how to use Git & GitHub and how to update it. It solves all the problems of how to make your first project and submitted. It is great start to learn about HTML, CSS, Git, GitHub and JavaScript.  
+It is the first step to do the prework in order to be a web designer and developer. It will help to learn how to use Git & GitHub and how to update it. It solves all the problems of how to make your first project and submitted. It is great start to learn about HTML, CSS, Git, GitHub and JavaScript.  
 
 ## Installation
 
